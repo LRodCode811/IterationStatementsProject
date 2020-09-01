@@ -28,6 +28,7 @@ namespace IterationStatements
 
 
             // Create a while loop
+            foreach (int num in numbers) 
             // While your variable is less than 200
             while (i < 200)
             {
